@@ -1,3 +1,5 @@
+That's a fancy way of saying "all the commits on the current branch that you haven't pushed yet". So, to create a revision in Git, run:
+
 dfgdf
 1234
 eeee
@@ -8,9 +10,7 @@ aaasssdddfff
 test0
 test0001
 test000
-test000
-test000
-test000
-test000
-test000
-test000
+
+$ nano source_code.c  # Make more changes.
+$ git commit -a       # Commit them.
+$ arc diff

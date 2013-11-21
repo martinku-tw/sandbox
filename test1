@@ -1,8 +1,17 @@
+
+In Subversion, arc diff sends the uncommitted changes in the working copy for review.
+
+To create a revision in SVN:
+
 3334
 test1
 test2
 test3
 test4
+
+However, this is a relatively advanced feature. The default is usually correct if you aren't creating branches-on-branches, juggling remotes, etc.
+
+
 test5
 test6
 test7
