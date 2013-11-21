@@ -1,1 +1,7 @@
+Amending commit message to reflect revision D5: Have some modify..
+You may now push this commit upstream, as appropriate (e.g. with 'git push',
+or 'git svn dcommit', or by printing and faxing it).
+
 123
+
+You can use arc help <command> for detailed help with any of these. Differential will make a guess about a next step on accepted revisions, but it may not be the best next step for your workflow.

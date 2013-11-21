@@ -1,2 +1,6 @@
+You can create just a diff (rather than a revision) with --preview (or --only, but this disables other features). You can later use it to create or update a revision from the web UI.
+
 1234
 123456
+
+arc uses information about the working copy (like the path, branch name, local commit hashes, and local tree hashes, depending on which version control system you are using) to figure out whether you intend to create or update a revision. If it guesses incorrectly, you can force it to either create or update a revision with:
