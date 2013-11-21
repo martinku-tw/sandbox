@@ -1,4 +1,5 @@
 {
   "project_id" : "sandbox",
-  "conduit_uri" : "http://10.2.50.96:5566/"
+  "conduit_uri" : "http://10.2.50.96:5566/",
+  "history.immutable" : true
 }
