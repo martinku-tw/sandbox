@@ -1,6 +1,5 @@
 {
   "project_id" : "sandbox",
   "conduit_uri" : "http://10.2.50.96:5566/",
-  "history.immutable" : true,
   "arc.land.onto.default" : "develop"
 }
