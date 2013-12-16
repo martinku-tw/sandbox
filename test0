@@ -14,3 +14,4 @@ test000
 $ nano source_code.c  # Make more changes.
 $ git commit -a       # Commit them.
 $ arc diff
+1234
